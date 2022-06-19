@@ -1,0 +1,23 @@
+{
+  "name": "@optiondance/utils",
+  "version": "1.0.0",
+  "description": "optiondance utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24h-purewater/option-dance-utils.git"
+  },
+  "keywords": [
+    "optiondance", "utils"
+  ],
+  "author": "24h-purewater",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/24h-purewater/option-dance-utils/issues"
+  },
+  "homepage": "https://github.com/24h-purewater/option-dance-utils#readme"
+}
